@@ -1,0 +1,11 @@
+{
+  "name": "mit-licensed-depends-on-mit-licensed",
+  "version": "0.0.0",
+  "description": "test package that is MIT-licensed and depends on a package that is MIT-licensed",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/mit-licensed-depends-on-mit-licensed.js",
+  "license": "MIT",
+  "dependencies": {
+    "mit-licensed": "^1.0.0"
+  }
+}
